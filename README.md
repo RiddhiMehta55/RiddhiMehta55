@@ -17,12 +17,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RiddhiMehta&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=dpvasani&theme=tokyonight" alt="GitHub Streak" />
-<!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Streak" /> -->
-<!--        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> -->
+      <img src="https://streak-stats.demolab.com/?user=RiddhiMehta&theme=tokyonight" alt="GitHub Streak" />
+<!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiddhiMehta&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Streak" /> -->
+<!--        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiddhiMehta&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> -->
     </td>
   </tr>
 </table>
@@ -35,11 +35,11 @@
 <table>
   <tr>
     <td>
-<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&range=all_time" alt="Top Languages" /> -->
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpvasani&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3&langs_count=10&range=all_time" alt="dpvasani" />
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhiMehta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&range=all_time" alt="Top Languages" /> -->
+       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RiddhiMehta&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3&langs_count=10&range=all_time" alt="RiddhiMehta" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true" alt="Profile Summary" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiddhiMehta&theme=tokyonight&include_all_commits=true&count_private=true" alt="Profile Summary" />
     </td>
   </tr>
 </table>
@@ -48,18 +48,18 @@
 <table>
   <tr>
     <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true">         
-<!--         <img height="155em" src="https://github-readme-stats.vercel.app/api?username=dpvasani&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
-                alt="dpvasani" /> -->
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RiddhiMehta&theme=tokyonight&include_all_commits=true&count_private=true">         
+<!--         <img height="155em" src="https://github-readme-stats.vercel.app/api?username=RiddhiMehta&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
+                alt="RiddhiMehta" /> -->
     </td>
     <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true">
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RiddhiMehta&theme=tokyonight&include_all_commits=true&count_private=true">
     </td>
     <td>
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true">
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RiddhiMehta&theme=tokyonight&include_all_commits=true&count_private=true">
     </td>
     <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dpvasani&theme=tokyonight&utcOffset=8&include_all_commits=true&count_private=true">
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiddhiMehta&theme=tokyonight&utcOffset=8&include_all_commits=true&count_private=true">
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@
 
 # ⚡Activity Graph
 <div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dpvasani&theme=tokyo-night&radius=14&include_all_commits=true&count_private=true"/> 
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RiddhiMehta&theme=tokyo-night&radius=14&include_all_commits=true&count_private=true"/> 
 </div>
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!-- 
